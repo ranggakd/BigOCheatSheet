@@ -21,7 +21,7 @@ Sebelum kita menuju ke situs, kita perlu tahu dahulu apa itu __Kompleksitas Komp
 
 ## Kompleksitas Komputasi Asimtotik
 
-> Dalam teori kompleksitas komputasi, __kompleksitas komputasi asimtotik__ merupakan penggunaan __analisis asimtotik__ untuk _estimasi kompleksitas komputasi algoritma dan masalah komputasi_, yang umumnya dikaitkan dengan penggunaan notasi _big O_. - [Wikipedia](https://en.wikipedia.org/wiki/Asymptotic_computational_complexity)
+> Dalam teori kompleksitas komputasi, __kompleksitas komputasi asimtotik__ merupakan penggunaan __analisis asimtotik__ untuk _estimasi kompleksitas komputasi algoritme dan masalah komputasi_, yang umumnya dikaitkan dengan penggunaan notasi _big O_. - [Wikipedia](https://en.wikipedia.org/wiki/Asymptotic_computational_complexity)
 
 Untuk memahami istilah-istilah tersebut, kita perlu tahu dahulu apa itu __Asimtot__ sebelum kita menyelam dalam __Analisis Asimtotik__.
 
@@ -50,16 +50,15 @@ Sebagai contoh kita dapat dari [jarednielsen](https://jarednielsen.com/big-o-ome
 
 Mengapa kita perlu __analisis asimtotik__ ini dirimu mungkin bertanya?
 
-Karena kita perlu mengestimasi kompleksitas komputasional dari algoritma dan masalah komputasional. Agar semua orang sepakat pada hal yang sama, kita menggunakan notasi-notasi ini: __big O, big Ω and big θ__ untuk menggambarkan tipe estimasi yang berbeda.
+Karena kita perlu mengestimasi kompleksitas komputasional dari algoritme dan masalah komputasional. Agar semua orang sepakat pada hal yang sama, kita menggunakan notasi-notasi ini: __big O, big Ω and big θ__ untuk menggambarkan tipe estimasi yang berbeda.
 
 **[🔝 kembali ke atas](#bigocheatsheet)**
 
 ## Big O
 
-> __Big O__ describes __the upper bound__ of an algorithm. This is why, for us, as developers and practitioners, we are primarily concerned with Big O. We want to know just how _poorly an algorithm might perform_. - [jarednielsen](https://jarednielsen.com/big-o-omega-theta/)
+> __Big O__ menggambarkan __batas atas__ suatu algoritme. Inilah mengapa, kita sebagai pengembang dan praktisi terutama peduli dengan Big O. Kita ingin tahu _seberapa buruk kinerja suatu algoritme_. - [jarednielsen](https://jarednielsen.com/big-o-omega-theta/)
 
-> It is define as upper bound and __upper bound on an algorithm__ is the most amount of time required (the worst case performance).
-__Big O__ notation is used to describe __asymptotic upper bound__. - [GeeksForGeeks](https://www.geeksforgeeks.org/difference-between-big-oh-big-omega-and-big-theta/)
+> Ini didefinisikan sebagai batas atas dan __batas atas pada suatu algoritme__ merupakan jumlah waktu paling banyak yang dibutuhkan (kinerja kasus terburuk). Notasi __Big O__ digunakan untuk menggambarkan __batas atas asimtotik__. - [GeeksForGeeks](https://www.geeksforgeeks.org/difference-between-big-oh-big-omega-and-big-theta/)
 
 ![bigO_gfg](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200807150308/3363.png)
 
