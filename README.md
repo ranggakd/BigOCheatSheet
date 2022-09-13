@@ -66,10 +66,9 @@ Karena kita perlu mengestimasi kompleksitas komputasional dari algoritme dan mas
 
 ## Big Ω
 
-> __Big Omega__ describes __the lower bound__ of an algorithm. If only life always handed us sorted arrays. 🌼. We can also think of this as our _best-case scenario_. - [jarednielsen](https://jarednielsen.com/big-o-omega-theta/)
+> __Big Omega__ menggambarkan __batas bawah__ suatu algoritme. Kalo saja hidup selalu memberi kita array yang diurutkan. 🌼. Kita juga dapat menganggap ini sebagai _skenario kasus terbaik_ kita. - [jarednielsen](https://jarednielsen.com/big-o-omega-theta/)
 
-> It is define as lower bound and __lower bound on an algorithm__ is the least amount of time required (the most efficient way possible, in other words best case).
-Just like O notation provide an asymptotic upper bound, __Ω notation__ provides __asymptotic lower bound__. - [GeeksForGeeks](https://www.geeksforgeeks.org/difference-between-big-oh-big-omega-and-big-theta/)
+> Ini didefinisikan sebagai batas bawah dan __batas bawah pada suatu algoritme__ merupakan jumlah paling sedikit yang dibutuhkan (cara yang paling efisien, dengan kata lain kasus terbaik). Seperti notasi O menyediakan batas atas asimtotik, __notasi Ω__ menyediakan __batas bawah asimtotik__. - [GeeksForGeeks](https://www.geeksforgeeks.org/difference-between-big-oh-big-omega-and-big-theta/)
 
 ![bigomega_gfg](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200807150659/3611.png)
 
