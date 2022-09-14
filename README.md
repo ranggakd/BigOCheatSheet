@@ -76,9 +76,9 @@ Karena kita perlu mengestimasi kompleksitas komputasional dari algoritme dan mas
 
 ## Big θ
 
-> __Big Theta__ describes __the tight bound__ of an algorithm, it’s limit from above and below. Big Theta is often used to describe _the average, or expected_, case for an algorithm. This isn’t exactly true, but it’s a useful shorthand. - [jarednielsen](https://jarednielsen.com/big-o-omega-theta/)
+> __Big Theta__ menggambarkan __batasan ketat__ suatu algoritme, batasannya dari atas dan bawah. Big Theta sering digunakan untuk menggambarkan _kasus rata-rata atau yang diharapkan_ untuk suatu algoritme. Ini tidak sepenuhnya benar, tetapi ini adalah singkatan yang berguna. - [jarednielsen](https://jarednielsen.com/big-o-omega-theta/)
 
-> It is define as tightest bound and __tightest bound__ is the best of all the worst case times that the algorithm can take. - [GeeksForGeeks](https://www.geeksforgeeks.org/difference-between-big-oh-big-omega-and-big-theta/)
+> Ini didefinisikan sebagai batas terketat dan __batas terketat__ merupakan yang terbaik dari semua waktu kasus terburuk yang dapat diambil oleh algoritma. - [GeeksForGeeks](https://www.geeksforgeeks.org/difference-between-big-oh-big-omega-and-big-theta/)
 
 ![bigtheta_gfg](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200807150743/36955.png)
 
