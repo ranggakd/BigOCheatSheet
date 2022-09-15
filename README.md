@@ -78,7 +78,7 @@ Karena kita perlu mengestimasi kompleksitas komputasional dari algoritme dan mas
 
 > __Big Theta__ menggambarkan __batasan ketat__ suatu algoritme, batasannya dari atas dan bawah. Big Theta sering digunakan untuk menggambarkan _kasus rata-rata atau yang diharapkan_ untuk suatu algoritme. Ini tidak sepenuhnya benar, tetapi ini adalah singkatan yang berguna. - [jarednielsen](https://jarednielsen.com/big-o-omega-theta/)
 
-> Ini didefinisikan sebagai batas terketat dan __batas terketat__ merupakan yang terbaik dari semua waktu kasus terburuk yang dapat diambil oleh algoritma. - [GeeksForGeeks](https://www.geeksforgeeks.org/difference-between-big-oh-big-omega-and-big-theta/)
+> Ini didefinisikan sebagai batas terketat dan __batas terketat__ merupakan yang terbaik dari semua waktu kasus terburuk yang dapat diambil oleh algoritme. - [GeeksForGeeks](https://www.geeksforgeeks.org/difference-between-big-oh-big-omega-and-big-theta/)
 
 ![bigtheta_gfg](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200807150743/36955.png)
 
@@ -87,11 +87,11 @@ Karena kita perlu mengestimasi kompleksitas komputasional dari algoritme dan mas
 ## Perbedaan Ketiganya
 
 | | Big O | Big Ω / Omega | Big θ / Theta |
-| --- | --- | --- | --- |
-| Conditional operator-wise | `<=` | `>=` | `==`
-| Rate of growth of an algorithm / data structure | is less than | is greater than | is equal to |
-| Bound | upper | lower | above and below |
-| Notation | `O(n)` | `Ω(n)` | `θ(n)` |
+| :--- | :---: | :---: | :---: |
+| Operator bersyarat | `<=` | `>=` | `==`
+| Tingkat pertumbuhan suatu algoritme / struktur data | kurang dari | lebih dari | sama dengan |
+| Batas | atas | bawah | atas dan bawah |
+| Notasi | `O(n)` | `Ω(n)` | `θ(n)` |
 
 **[🔝 kembali ke atas](#bigocheatsheet)**
 
