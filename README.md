@@ -97,21 +97,21 @@ Karena kita perlu mengestimasi kompleksitas komputasional dari algoritme dan mas
 
 ## Konteks Kasus Terburuk, Terbaik, Rata-rata
 
-What is the relationship between
-> __best case__ / __worst case__ / __expected case__
+Apa hubungan antara
+> __kasus terbaik__ / __kasus terburuk__ / __kasus diharapkan__
 
-and
+dengan
 
 > __Big O__ / __Big Omega (Ω)__ / __Big Theta (θ)__?
 
-__There isn’t one__. 
+__Tidak ada__. 
 
-> Equivalencies are often made between __Big O and worst case__, __Big Omega and best case__, and __Big Theta and average case__, but __we can speak of best, worst, and average__ for __each of these notations__. - [jarednielsen](https://jarednielsen.com/big-o-omega-theta/)
+> Ekuivalensi sering dibuat antara __Big O dan kasus terburuk__, __Big Omega dan kasus terbaik__, dan __Big Theta dan kasus rata-rata__ untuk __setiap notasi__. - [jarednielsen](https://jarednielsen.com/big-o-omega-theta/)
 
-> For example, each of the following statements about __worst case__ are true:
->> Insertion Sort’s worst case rate of growth is __at most__ `O(n^2)`  
->> Insertion Sort’s worst case rate of growth is __at least__ `Ω(n)`  
->> Insertion Sort’s worst case rate of growth is __exactly__ `Θ(n^2)`
+> Misalnya, setiap pernyataan mengenai __kasus terburuk__ berikut ini semuanya benar:
+>> Kasus terburuk tingkat pertumbuhan Insertion Sort __paling tinggi__ `O(n^2)`  
+>> Kasus terburuk tingkat pertumbuhan Insertion Sort __paling rendah__ `Ω(n)`  
+>> Kasus terburuk tingkat pertumbuhan Insertion Sort __tepat__ `Θ(n^2)`
 
 **[🔝 kembali ke atas](#bigocheatsheet)**
 
