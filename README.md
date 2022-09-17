@@ -109,24 +109,24 @@ __Tidak ada__.
 > Ekuivalensi sering dibuat antara __Big O dan kasus terburuk__, __Big Omega dan kasus terbaik__, dan __Big Theta dan kasus rata-rata__ untuk __setiap notasi__. - [jarednielsen](https://jarednielsen.com/big-o-omega-theta/)
 
 > Misalnya, setiap pernyataan mengenai __kasus terburuk__ berikut ini semuanya benar:
->> Kasus terburuk tingkat pertumbuhan Insertion Sort __paling tinggi__ `O(n^2)`  
->> Kasus terburuk tingkat pertumbuhan Insertion Sort __paling rendah__ `Ω(n)`  
->> Kasus terburuk tingkat pertumbuhan Insertion Sort __tepat__ `Θ(n^2)`
+>> Tingkat pertumbuhan kasus terburuk Insertion Sort __paling tinggi__ `O(n^2)`  
+>> Tingkat pertumbuhan kasus terburuk Insertion Sort __paling rendah__ `Ω(n)`  
+>> Tingkat pertumbuhan kasus terburuk Insertion Sort __tepat__ `Θ(n^2)`
 
 **[🔝 kembali ke atas](#bigocheatsheet)**
 
 ## Referensi
 
-[Big-O Cheat Sheet Website](https://www.bigocheatsheet.com/) ◽ last accessed 6 September 2022
+[Big-O Cheat Sheet Website](https://www.bigocheatsheet.com/) ◽ diakses terakhir 17 September 2022
 
-[Asymptotic computational complexity](https://en.wikipedia.org/wiki/Asymptotic_computational_complexity) ◽ last accessed 6 September 2022
+[Asymptotic computational complexity](https://en.wikipedia.org/wiki/Asymptotic_computational_complexity) ◽ diakses terakhir 17 September 2022
 
-[Asymptote](https://en.wikipedia.org/wiki/Asymptote) ◽ last accessed 6 September 2022
+[Asimtot](https://id.wikipedia.org/wiki/Asimtot) ◽ diakses terakhir 17 September 2022
 
-[Asymptotic analysis](https://en.wikipedia.org/wiki/Asymptotic_analysis) ◽ last accessed 6 September 2022
+[Asymptotic analysis](https://en.wikipedia.org/wiki/Asymptotic_analysis) ◽ diakses terakhir 17 September 2022
 
-[What’s the Difference Between Big O, Big Omega, and Big Theta?](https://jarednielsen.com/big-o-omega-theta/) ◽ last accessed 6 September 2022
+[What’s the Difference Between Big O, Big Omega, and Big Theta?](https://jarednielsen.com/big-o-omega-theta/) ◽ diakses terakhir 17 September 2022
 
-[Difference between Big Oh, Big Omega and Big Theta](https://www.geeksforgeeks.org/difference-between-big-oh-big-omega-and-big-theta/) ◽ last accessed 6 September 2022
+[Difference between Big Oh, Big Omega and Big Theta](https://www.geeksforgeeks.org/difference-between-big-oh-big-omega-and-big-theta/) ◽ diakses terakhir 17 September 2022
 
 **[🔝 kembali ke atas](#bigocheatsheet)**
